@@ -17,7 +17,7 @@ It’s built with a **MERN stack** (MongoDB, Express, React, Node.js) and integr
 
 ## 🚀 Live Demo
 
-🔗 **[Visit Imagify]()**
+https://imagify-nn52-git-main-santosh-sharmas-projects-81e4a1b5.vercel.app/
 
 ---
 
